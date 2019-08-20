@@ -26,7 +26,8 @@ Here are the installation upgrade paths:
 **Note:** *Micro* upgrade changes are data changes in Liferay DXP fix packs or
 data changes in GA release for the same minor version of Liferay Portal CE
 (e.g., installing Liferay Portal CE 7.2 GA2 on a 7.2 GA1 installation). Micro
-upgrade changes are optional in Liferay DXP 7.1+ and Liferay Portal CE 7.2+.
+upgrade changes are optional in Liferay DXP 7.1+ and Liferay Portal CE 7.2+
+since the code doesn't require this data modifications. 
 
 You can use the upgrade tool (discussed later) to execute core micro upgrades
 whenever you want.

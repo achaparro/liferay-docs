@@ -21,7 +21,8 @@ fixes address regressions or obvious bugs and don't require you to make
 additional changes. Each fix pack contains all previous fix packs since the last
 service pack. 
 
-**Note:** *Micro* upgrade changes are optional data changes in Liferay DXP fix packs. 
+**Note:** *Micro* upgrade changes are optional data changes in Liferay DXP fix packs
+since these modifications are not mandatory for the code to work.
 
 You can use the [upgrade
 tool](/docs/7-2/deploy/-/knowledge_base/d/upgrading-to-product-ver) to execute
